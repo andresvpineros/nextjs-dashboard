@@ -3,8 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start",
-    "seed": "node --loader ts-node/esm ./app/seed/route.mts"
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.4",
